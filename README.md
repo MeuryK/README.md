@@ -22,8 +22,7 @@ Tabela: `usuarios`
 ![Print Saída](https://github.com/MeuryK/README.md/blob/main/Print%202%20(DRP).png?raw=true)
 
 ## Bibliotecas usadas
-- sqlite3
-  Biblioteca nativa do Python, usada para conectar e manipular o banco de dados SQLite de forma local. Permite executar comandos SQL como criação de tabelas, inserção, leitura, atualização e exclusão de registros.
+- sqlite3 (Biblioteca nativa do Python, usada para conectar e manipular o banco de dados SQLite de forma local. Permite executar comandos SQL como criação de tabelas, inserção, leitura, atualização e exclusão de registros.)
 
   ## 📝 Observações
 - Projeto desenvolvido como parte de atividade prática com foco em integração entre Python e banco de dados.
